@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobit22)](https://github.com/hobit22/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobit22&layout=compact&card_width=445&hide=html)](https://github.com/hobit22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobit22&layout=compact&card_width=445&hide=html,css)](https://github.com/hobit22/github-readme-stats)
 
 
 ### 🛠 STACK
