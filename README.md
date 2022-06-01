@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobit22&layout=compact&card_width=445&hide=html,css)](https://github.com/hobit22/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hobit22)](https://solved.ac/hobit22/)
 
 ### 📃 Studying
 
