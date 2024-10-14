@@ -3,11 +3,6 @@
 ### Steadily Growing Developer
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hobit22"/>
-</a>
-
-
 <!--
 **hobit22/hobit22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
